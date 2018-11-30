@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC-Demo-pv03-SKe", "MVC-Demo-pv03-SKe\MVC-Demo-pv03-SKe.csproj", "{4437A0C9-030B-47BF-8552-7606DB245A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4437A0C9-030B-47BF-8552-7606DB245A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4437A0C9-030B-47BF-8552-7606DB245A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4437A0C9-030B-47BF-8552-7606DB245A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4437A0C9-030B-47BF-8552-7606DB245A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {224E18AB-F5A6-4809-B1C2-85C424C62516}
+	EndGlobalSection
+EndGlobal
